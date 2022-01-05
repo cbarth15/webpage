@@ -11,41 +11,41 @@ build_property.EnableTrimAnalyzer = true
 build_property.IncludeAllContentForSelfExtract = 
 build_property.RootNamespace = webpage-new
 build_property.RootNamespace = webpage-new
-build_property.ProjectDir = /home/heybro/webpage-new/
+build_property.ProjectDir = /home/christian/Documents/webpage/webpage/
 build_property.RazorLangVersion = 6.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = /home/heybro/webpage-new
+build_property.MSBuildProjectDirectory = /home/christian/Documents/webpage/webpage
 build_property._RazorSourceGeneratorDebug = 
 
-[/home/heybro/webpage-new/App.razor]
+[/home/christian/Documents/webpage/webpage/App.razor]
 build_metadata.AdditionalFiles.TargetPath = QXBwLnJhem9y
 build_metadata.AdditionalFiles.CssScope = 
 
-[/home/heybro/webpage-new/Pages/Counter.razor]
-build_metadata.AdditionalFiles.TargetPath = UGFnZXMvQ291bnRlci5yYXpvcg==
-build_metadata.AdditionalFiles.CssScope = 
-
-[/home/heybro/webpage-new/Pages/FetchData.razor]
-build_metadata.AdditionalFiles.TargetPath = UGFnZXMvRmV0Y2hEYXRhLnJhem9y
-build_metadata.AdditionalFiles.CssScope = 
-
-[/home/heybro/webpage-new/Pages/Index.razor]
+[/home/christian/Documents/webpage/webpage/Pages/Index.razor]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXMvSW5kZXgucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = 
 
-[/home/heybro/webpage-new/Shared/SurveyPrompt.razor]
+[/home/christian/Documents/webpage/webpage/Pages/Info.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXMvSW5mby5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/home/christian/Documents/webpage/webpage/Pages/Opengl.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXMvT3BlbmdsLnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[/home/christian/Documents/webpage/webpage/Shared/SurveyPrompt.razor]
 build_metadata.AdditionalFiles.TargetPath = U2hhcmVkL1N1cnZleVByb21wdC5yYXpvcg==
 build_metadata.AdditionalFiles.CssScope = 
 
-[/home/heybro/webpage-new/_Imports.razor]
+[/home/christian/Documents/webpage/webpage/_Imports.razor]
 build_metadata.AdditionalFiles.TargetPath = X0ltcG9ydHMucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = 
 
-[/home/heybro/webpage-new/Shared/MainLayout.razor]
+[/home/christian/Documents/webpage/webpage/Shared/MainLayout.razor]
 build_metadata.AdditionalFiles.TargetPath = U2hhcmVkL01haW5MYXlvdXQucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = b-futk70ysl0
 
-[/home/heybro/webpage-new/Shared/NavMenu.razor]
+[/home/christian/Documents/webpage/webpage/Shared/NavMenu.razor]
 build_metadata.AdditionalFiles.TargetPath = U2hhcmVkL05hdk1lbnUucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = b-6nu1dxzxcl
